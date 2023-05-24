@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-file-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mahmudsagar/nodejs-file-downloader.git",
+  "author": "mahmudsagar",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
